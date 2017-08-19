@@ -10,8 +10,8 @@ Inspired by Jennifer Dewalt's [180 websites in 180 days](http://jenniferdewalt.c
 
 ## Projects
 1. **Tic Tac Toe** - Simple Implementation of Tic Tac Toe game
-  - [Github]("https://github.com/fahadkaleem/TicTacToeJS") | [Demo]("https://github.com/fahadkaleem/TicTacToeJS")
+  - [Github](https://github.com/fahadkaleem/TicTacToeJS) | [Demo](https://github.com/fahadkaleem/TicTacToeJS)
 2. **Key Code** - Website that displays the key code of the button pressed
-  - [Github]("https://github.com/fahadkaleem/KeyCode") | [Demo]("https://github.com/fahadkaleem/KeyCode")
+  - [Github](https://github.com/fahadkaleem/KeyCode) | [Demo](https://github.com/fahadkaleem/KeyCode)
 3. **Clock** - Simple Implementation of Clock
-  - [Github]("https://github.com/fahadkaleem/ClockJS") | [Demo]("https://github.com/fahadkaleem/ClockJS")
+  - [Github](https://github.com/fahadkaleem/ClockJS) | [Demo](https://github.com/fahadkaleem/ClockJS)
