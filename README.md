@@ -6,8 +6,7 @@ Inspired by Jennifer Dewalt's [180 websites in 180 days](http://jenniferdewalt.c
 
 1. I will do 100 small JavaScript projects.
 2. There's no time limit on how long an individual exercise can take.
-3. Perfect is the enemy of good. I will not be afraid of making mistakes.
-4. I will ask for help when I need it. Stack Overflow FTW!
+3. I will ask for help when I need it. Stack Overflow FTW!
 
 ## Projects
 1. **Tic Tac Toe** - Simple Implementation of Tic Tac Toe game
