@@ -1,7 +1,18 @@
-# 100 JavaScript Projects
-This is a repository to track all my projects and implementations while learning to become a Full Stack Developer. The goal is to write some code every single day and learn more about JS and different frameworks. 
+# 100 Javascript Projects
 
+Inspired by Jennifer Dewalt's [180 websites in 180 days](http://jenniferdewalt.com/index.html) and Elle Luna's [100 day project](https://thegreatdiscontent.com/100days).
 
-1. ![Tic Tac Toe in JS.]("https://github.com/fahadkaleem/TicTacToeJS")
-2. ![Key Code Website.]("https://github.com/fahadkaleem/KeyCode")
-3. ![Clock]("https://github.com/fahadkaleem/ClockJS")
+## Rules
+
+1. I will do 100 small JavaScript projects.
+2. There's no time limit on how long an individual exercise can take.
+3. Perfect is the enemy of good. I will not be afraid of making mistakes.
+4. I will ask for help when I need it. Stack Overflow FTW!
+
+## Projects
+1. **Tic Tac Toe** - Simple Implementation of Tic Tac Toe game
+  - [website]("https://github.com/fahadkaleem/TicTacToeJS") | [Github]("https://github.com/fahadkaleem/TicTacToeJS")
+2. **Key Code** - Website that displays the key code of the button pressed
+  - [website]("https://github.com/fahadkaleem/KeyCode") | [Github]("https://github.com/fahadkaleem/KeyCode")
+3. **Clock** - Simple Implementation of Clock
+  - [website]("https://github.com/fahadkaleem/ClockJS") | [Github]("https://github.com/fahadkaleem/ClockJS")
