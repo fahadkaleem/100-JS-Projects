@@ -3,6 +3,5 @@ This is a repository to track all my projects and implementations while learning
 
 
 1. ![Tic Tac Toe in JS.]("https://github.com/fahadkaleem/TicTacToeJS")
-2. Todo application in JS.
-3. ![Key Code Website.]("https://github.com/fahadkaleem/KeyCode")
-4. ![Clock]("https://github.com/fahadkaleem/ClockJS")
+2. ![Key Code Website.]("https://github.com/fahadkaleem/KeyCode")
+3. ![Clock]("https://github.com/fahadkaleem/ClockJS")
